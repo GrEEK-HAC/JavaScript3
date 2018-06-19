@@ -6,9 +6,9 @@ Here you can find course content and homework for the JavaScript3 modules
 
 |Week|Topic|Read|Homework|
 |----|-----|----|--------|
-|1.|• [Object Oriented Programming and Classes](fundamentals/oop_classes.md)<br>• [The `this` keyword](fundamentals/this.md) |[Reading Week 7](/Week1/README.md)|[Homework Week 7](/Week1/MAKEME.md)|
-|2.|• Structure for a basic SPA (Single Page Application) <br>• [XMLHttpRequests](fundamentals/XMLHttpRequest.md) <br>• API calls|[Reading Week 8](/Week2/README.md)|[Homework Week 8](/Week2/MAKEME.md)|
-|3.|• [Promises](fundamentals/promises.md)<br> • (re)writing data structures (in JSON) <br>• Async vs Sync <br>• [Event Loop (order of execution)](fundamentals/event_loop.md) |[Reading Week 9](/Week3/README.md)|[Homework Week 9](/Week3/MAKEME.md)|
+|1.|• [Object Oriented Programming and Classes](fundamentals/oop_classes.md)<br>• [The `this` keyword](fundamentals/this.md) |[Reading Week 7](/Week7/README.md)|[Homework Week 7](/Week7/MAKEME.md)|
+|2.|• Structure for a basic SPA (Single Page Application) <br>• [XMLHttpRequests](fundamentals/XMLHttpRequest.md) <br>• API calls|[Reading Week 8](/Week8/README.md)|[Homework Week 8](/Week8/MAKEME.md)|
+|3.|• [Promises](fundamentals/promises.md)<br> • (re)writing data structures (in JSON) <br>• Async vs Sync <br>• [Event Loop (order of execution)](fundamentals/event_loop.md) |[Reading Week 9](/Week9/README.md)|[Homework Week 9](/Week9/MAKEME.md)|
 
 __Kind note:__
 
